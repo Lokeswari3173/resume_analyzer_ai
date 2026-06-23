@@ -38,6 +38,8 @@ def analyze_resume(pdf_doc,job_des):
     
     swot_analysis = model.generate_content(f'''Compare the resume {pdf_text} and the given job description {job_des} and
                                            provide SWOT analysis. Generate minimum 3 points for each analysis''')
+
+    #Final version
     
     return {st.write(ats_score.text),
             st.write(prob_score.text),
