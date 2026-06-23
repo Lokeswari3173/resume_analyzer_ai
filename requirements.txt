@@ -2,3 +2,4 @@ streamlit
 python-dotenv
 pypdf
 google-generativeai
+# Final version
