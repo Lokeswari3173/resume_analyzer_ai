@@ -12,8 +12,8 @@ st.subheader('''This page helps you to compare your resume with the given Job De
 st.sidebar.subheader('Drop your resume here ⬇️')
 pdf_doc = st.sidebar.file_uploader('Click here to browse', type = ['pdf'])
 
-st.sidebar.markdown('Designed by Kavya Radheshwar')
-st.sidebar.markdown('Github : https://github.com/kavyaradheshwar1')
+st.sidebar.markdown('Designed by Mangasamudram Lokeswari')
+st.sidebar.markdown('Github : https://github.com/Lokeswari3173')
 
 job_des = st.text_area('Copy and paste JD here👉',max_chars=10000)
 submit = st.button('Generate Score📊')
