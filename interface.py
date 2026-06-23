@@ -14,7 +14,10 @@ pdf_doc = st.sidebar.file_uploader('Click here to browse', type = ['pdf'])
 
 st.sidebar.markdown('Designed by Mangasamudram Lokeswari')
 st.sidebar.markdown('Github : https://github.com/Lokeswari3173')
-
+st.sidebar.markdown("### About Me")
+st.sidebar.write("Mangasamudram Lokeswari")
+st.sidebar.write("Data Science & Gen AI")
+st.sidebar.write("GitHub: https://github.com/Lokeswari3173")
 job_des = st.text_area('Copy and paste JD here👉',max_chars=10000)
 submit = st.button('Generate Score📊')
 
