@@ -22,4 +22,5 @@ if submit:
     with st.spinner('Getting results....'):
         analyze_resume(pdf_doc,job_des)
     
-    
+    # Final version
+
