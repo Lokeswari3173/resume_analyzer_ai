@@ -14,3 +14,4 @@ def extractpdf(pdf_doc): # module to load and extract text from the PDF
     except Exception as e:
         return f'Error in the pdf'
                 
+#Final version
