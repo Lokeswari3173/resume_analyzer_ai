@@ -163,75 +163,30 @@ streamlit run interface.py
 
 ## 🏠 Home Page
 
-(Add Screenshot 1)
-
----
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/bfc073fa-dbd5-4302-bf9d-72549249ad4a" />
 
 ## 📄 Upload Resume & Enter Job Description
 
-(Add Screenshot 2)
-
----
-
 ## 📊 ATS Score Generation
 
-(Add Screenshot 3)
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/49a8a21e-f916-4cb9-9811-2768a8ef5500" />
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/287f43c5-e4dc-41f0-83d3-4c9323ea08e5" />
 
----
+## ✅ Resume vs Job Description Comparison,💪 Strength Analysis, ⚠️ Weakness Analysis,📈 Probability of Selection,🎯 Skill Gap Analysis,📚 SWOT Analysis,💡 Personalized Recommendations,📋 Overall Candidate Assessment,🤖 Final AI Generated Report
 
-## ✅ Resume vs Job Description Comparison
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/177c6665-907f-4ab5-b50f-b56e162e4c04" />
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/1416b8f8-04b2-439b-90b4-72f761fc2289" />
+<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/4fa1c826-b0f6-4a71-a156-d16ac50c076f" />
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/7b5263a9-5a7b-4e97-8379-817920299d23" />
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/022115b1-22fb-4247-b142-f640262a405e" />
+<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/18b9ec92-2c65-4461-b194-4ff03087c415" />
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/04722f78-c5dd-433a-b316-3807ea03c6e4" />
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/eeac82eb-2297-4dcf-a4a1-b0876416d7a9" />
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/563aff61-ecd7-40d8-b1dc-d20aec5c9ae0" />
+<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/cdbbe450-ebab-45c5-964d-a8167fb00689" />
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/bd8208fc-0b42-46e7-8280-b3bfeaf314bc" />
+<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/ade94ae5-2802-43f4-82fa-091d5f227317" />
 
-(Add Screenshot 4)
-
----
-
-## 💪 Strength Analysis
-
-(Add Screenshot 5)
-
----
-
-## ⚠️ Weakness Analysis
-
-(Add Screenshot 6)
-
----
-
-## 📈 Probability of Selection
-
-(Add Screenshot 7)
-
----
-
-## 🎯 Skill Gap Analysis
-
-(Add Screenshot 8)
-
----
-
-## 📚 SWOT Analysis
-
-(Add Screenshot 9)
-
----
-
-## 💡 Personalized Recommendations
-
-(Add Screenshot 10)
-
----
-
-## 📋 Overall Candidate Assessment
-
-(Add Screenshot 11)
-
----
-
-## 🤖 Final AI Generated Report
-
-(Add Screenshot 12)
-
----
 
 # 🔄 Workflow
 
@@ -270,9 +225,6 @@ Recommendations
       │
       ▼
 Final AI Report
-```
-
----
 
 # 🎯 Use Cases
 
